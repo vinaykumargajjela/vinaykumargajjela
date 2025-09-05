@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I am a passionate software developer with a strong interest in building robust, scalable web and mobile applications. My development journey centers around creating impactful solutions, enhancing user experience, and exploring the latest technologies.
 ---
 ## About Me
-- **Learning & Growth:** Constantly exploring new technologies in full-stack development, cloud computing, automation, and UI/UX trends.- **Interests:** Full-stack web development, cloud platforms, DevOps, automation, and open-source contributions.- **Goal:** To develop innovative software solutions that solve real-world challenges and drive business growth.- **Contact:** [vinaykumargajjela@gmail.com](mailto:vinaykumargajjela@gmail.com)
+- **Learning & Growth:** Constantly exploring new technologies in full-stack development, cloud computing, automation, and UI/UX trends.- **Interests:** Full-stack web development, cloud platforms, DevOps, automation, and open-source contributions.- **Goal:** To develop innovative software solutions that solve real-world challenges and drive business growth.- **Contact:** [codewithvinay.dev@gmail.com](mailto:codewithvinay.dev@gmail.com)
 ---
 ## Skills
 - **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap- **Backend:** Node.js, Express, Python- **Databases:** MongoDB, MySQL- **DevOps & Cloud:** AWS, Docker- **Tools:** Git, GitHub, VS Code, Postman- **Other:** RESTful APIs, JWT Authentication, Agile methodologies
