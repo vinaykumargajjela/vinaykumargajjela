@@ -15,6 +15,6 @@ Here are some of my featured repositories:
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumargajjela&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumargajjela&layout=compact&theme=radical)
 ---
 ## Let's Connect!
-I am always open to collaborating on exciting projects, learning from others, and contributing to the tech community. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vinaykumargajjela/) or reach out via email!
+I am always open to collaborating on exciting projects, learning from others, and contributing to the tech community. Feel free to connect with me on [LinkedIn](www.linkedin.com/in/gajjela-vinay-kumar-003a67258) or reach out via email!
 ---
 *Thank you for visiting my GitHub profile!*
